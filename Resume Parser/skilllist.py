@@ -1,0 +1,50 @@
+skills_list = [
+    "Data Analysis", "Machine Learning", "Artificial Intelligence", "Big Data",
+    "Data Mining", "Predictive Analytics", "Natural Language Processing ","NLP",
+    "Microsoft Power BI", "Tableau", "Google Analytics", "Apache Spark", "Hadoop","Jupyter Notebook"
+    "Alteryx", "KNIME", "SAS", "MATLAB","Deep Learning","Neural Networks","Computer Vision"
+    "Python", "JavaScript", "Java", "C++", "SQL", "R", "Git", "GitHub", "GitLab",
+    "Bitbucket", "Docker", "Kubernetes", "Visual Studio Code", "PyCharm", "Eclipse",
+    "Software Development", "Full Stack Development", "Front-end Development",
+    "Back-end Development",
+    "AWS (Amazon Web Services)", "Google Cloud Platform (GCP)", "Microsoft Azure",
+    "Terraform", "Ansible", "Jenkins", "DevOps", "Cloud Computing",
+    "Cybersecurity", "Ethical Hacking", "Penetration Testing", "Incident Response",
+    "Forensic Analysis", "Disaster Recovery", "Wireshark", "Metasploit", "Splunk",
+    "Tenable Nessus", "Burp Suite", "Network Security", "IT Support", "Systems Administration",
+    "Network Administration",
+    "Microsoft Power Automate", "PowerApps", "Zapier", "Airtable", "AppSheet", "Bubble",
+    "OutSystems",
+    "Salesforce", "HubSpot", "Zoho CRM", "Microsoft Dynamics 365", "Customer Relationship Management (CRM)",
+    "Business Analysis", "Strategic Planning", "Market Research",
+    "Project Management", "Scrum Master", "Agile Methodologies", "Jira", "Trello", "Asana",
+    "Notion", "ClickUp", "Microsoft Teams", "Slack", "Zoom",
+    "User Experience (UX) Design", "Graphic Design", "Adobe Photoshop", "Adobe Illustrator",
+    "Figma", "Sketch", "Adobe XD", "Canva", "InVision",
+    "Adobe Premiere Pro", "Final Cut Pro", "DaVinci Resolve", "After Effects", "Animation",
+    "3D Modeling", "Augmented Reality (AR)", "Virtual Reality (VR)",
+    "Digital Marketing", "Search Engine Optimization (SEO)", "Social Media Management",
+    "E-commerce Optimization", "Performance Marketing", "Influencer Marketing",
+    "Google Ads", "Facebook Ads Manager", "Mailchimp", "Hootsuite", "SEMrush", "Ahrefs",
+    "Financial Analysis", "Risk Management", "Compliance", "QuickBooks", "SAP FICO", "Xero",
+    "Microsoft Dynamics GP",
+    "Bioinformatics", "Health Informatics", "Civil Engineering", "Mechanical Engineering",
+    "Electrical Engineering", "Chemical Engineering", "Biomedical Engineering",
+    "Aerospace Engineering", "Automotive Engineering", "Nanotechnology", "Material Science",
+    "Quantum Computing", "Renewable Energy", "Sustainable Development", "Urban Planning",
+    "Environmental Science","Mathematics","Statistics","Physcis","Bioengineering","Biomedical Engineering","Arithmetics"
+    "Human Resources Management", "Talent Acquisition", "Employee Relations",
+    "Organizational Development", "Change Management", "Leadership Development",
+    "Dynamic Thinking"
+    "LinkedIn Recruiter", "Greenhouse", "Workday", "BambooHR", "Jobvite",
+    "Communication", "Problem-solving", "Teamwork", "Adaptability", "Critical thinking",
+    "Time management", "Emotional intelligence", "Creativity", "Work ethic", "Leadership",
+    "Collaboration", "Resilience", "Interpersonal skills", "Decision-making",
+    "Negotiation", "Conflict resolution", "Attention to detail", "Stress management",
+    "Active listening", "Self-motivation",
+    "Microsoft Excel","Excel", "Microsoft Word", "Microsoft PowerPoint", "Microsoft Outlook",
+    "Google Sheets", "Google Docs", "Google Slides", "Google Calendar",
+    "Customer Service", "Technical Support", "Zendesk", "Freshdesk", "Intercom", "ServiceNow"
+]
+
+
